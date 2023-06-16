@@ -1,0 +1,189 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.container .content h1{
+    margin: 4px 2px;
+    padding: 3px 2px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+}
+.container .content h2{
+    margin: 2px 2px;
+    padding: 3px 2px;
+}
+.container .content .btn-1{
+    background: none;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 5px;
+    margin-top: 5px;
+    padding: 3px 7px;
+}
+.container .content .btn-1:hover{
+    background-color:black;
+    color: white;
+
+}
+.container .content img{
+    height: 170px;
+    width: 180px;
+    float: right;
+}
+.container .content .para .p1{
+    border-radius: 5px;
+    border:0.1px dotted rgb(158, 157, 157);
+    font-size: 16px;
+    font-family: sans-serif;
+    font-weight: 400;
+    width: 200px;
+    text-align: center;
+}
+.container .content .para .p2{
+    margin: 16px 2px;
+    font-size: 14px;
+}
+.container .content .para .p2 span{
+    font-size: 16px;
+    font-weight: 500;
+    color: rgb(10, 0, 0);
+}
+.container .content .para .p3 span{
+    font-size: 25px;
+    font-weight: 600;
+    text-decoration: blue;
+}.but{
+    margin-top: 28px;
+    float: left;
+}.container .box{
+    border-radius: 5px;
+    border: 0.1px solid gray;
+   /* box-shadow: 0 0 10px 5px rgb(170, 167, 167);*/
+   padding: 3px 5px;
+}.icon-1{
+    float: right;
+    margin-top: 150px;
+}.icon-1 .hover :hover{
+    border-bottom: 3px solid rgb(95, 93, 93);
+    
+}.icon-1 .hover{
+    padding: 3px 7px;
+}
+
+/*.................costomer............*/
+.container-1 .content-1 h2{
+    margin: 2px 2px;
+    padding: 2px 2px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+    text-align: center;
+}
+.container-1 .content-1 h3{
+    margin: 2px 2px;
+    padding: 2px 2px;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: 400;
+    text-align: center;
+}
+.container-1 .content-1 .flex{
+    display: flex;
+    margin: 3px 1px;
+    align-items: center;
+    justify-content: center;
+}
+.container-1 .content-1 .flex .btn-1{
+    background: none;
+    font-size: 15px;
+    font-weight: 500;
+    border-radius: 5px;
+    margin-top: 3px;
+    margin: 1px 8px;
+    padding: 3px 6px;
+}.container-1 .content-1 .btn-1:hover{
+    background-color:black;
+    color: white;
+}
+#features1
+{
+    text-align: center;
+    padding: 10% 15%;
+}
+ #features
+ {
+     text-align: center;
+     padding: 10% 15%; background-image: url('file:///C:/Users/hp/Desktop/imgres.htm');
+
+ }
+ .features1 h3
+{
+    padding:5px;
+    margin-top:25px;
+    text-transform:uppercase;
+}
+
+.features h3
+{
+    padding:5px;
+    margin-top:25px;
+    text-transform:uppercase;
+}
+.title::before
+{
+    content:'';
+    background:#e9ec40;
+    height:5px;
+    width:600px;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+    transform:translatey(63px);
+}
+.title::after
+{
+    content:'';
+    background:#e3e709;
+    height:10px;
+    width:50px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:40px;
+    display: block;
+    transform:translatey(8px);
+}
+#features .btn-primary
+{
+    box-shadow:none;
+    padding:10px 25px;
+    border:none;
+    align-content: center;
+    background-image:linear-gradient(to right,#9cba17,#5ed7e7)
+}
+/* Action*/
+  #action{
+    background-color:rgb(175, 75, 122);
+    padding: 7% 15%;
+    text-align: center;
+    line-height: 1.5;
+    color: rgb(250, 246, 246);
+  }
+  .main{
+    font-size: 3rem;
+    line-height: 1.5;
+    padding: 10px 0px;
+  }
+.logo img{
+  width: 30%;
+  height: auto;
+}
+.my-info{
+    padding: 2rem 5rem;
+}
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+    color: initial;
+}
