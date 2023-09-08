@@ -55,12 +55,12 @@
     </div>
 
     <div class="icon-1">
-      <a href="https://www.facebook.com/people/Karan-Shaw/100075733316903/" class="hover"><img
+      <a href="https://www.facebook.com/people/Rahul-Ratan-Mahato/100075733316903/" class="hover"><img
           src="https://img.icons8.com/ios/48/000000/facebook-new.png" /></a>
-      <a href="https://twitter.com/karanpshaw" class="hover"><img src="https://img.icons8.com/ios/50/000000/twitter.png" /></a>
-      <a href="https://www.instagram.com/karanpshaw/" class="hover"><img
+      <a href="https://twitter.com/rahulratan" class="hover"><img src="https://img.icons8.com/ios/50/000000/twitter.png" /></a>
+      <a href="https://www.instagram.com/allibear.75/" class="hover"><img
           src="https://img.icons8.com/ios/48/000000/instagram.png" /></a>
-      <a href="https://www.linkedin.com/in/karanpratapshaw/" class="hover" id="link"><img src="https://img.icons8.com/ios/48/000000/linkedin.png"
+      <a href="https://www.linkedin.com/in/rahulratanmahato/" class="hover" id="link"><img src="https://img.icons8.com/ios/48/000000/linkedin.png"
           alt="" style="width: 53px;"></a>
     </div>
 
